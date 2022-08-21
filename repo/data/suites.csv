@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","","","307","","com.tostanco.RunCukesTest","","Belly","","a few cukes",""
+"passed","","","14824","","com.tostanco.RunCukesTest","","Basic test","","page works",""
